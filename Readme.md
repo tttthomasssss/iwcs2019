@@ -25,7 +25,7 @@ The [dataset](https://github.com/tttthomasssss/iwcs2019/blob/master/datasets/aux
 
 The [dataset](https://github.com/tttthomasssss/iwcs2019/blob/master/datasets/translation_operation.txt) is tab separated and contains the auxiliary, the corresponding inflected verb and the infinitive form of a verb. The goal is to learn a translation operation from infinitive forms to inflected forms (or contextualised forms if the tense uses auxiliaries). Evaluation has been done using Mean Reciprocal Rank (MRR) - see our [paper]((https://github.com/tttthomasssss/iwcs2019/blob/master/TemporalAndAspectualEntailment.pdf)) for further details.
 
-The code for our feedforward network that generates an inflected verb given its infinitive is in [code](). It requires `torch>=1.0.0`, however its a very vanilla feedforward network and should be easily reproducible (haha, famous last words!) in any other framework too.
+The code for our feedforward network that generates an inflected verb given its infinitive is in [code](https://github.com/tttthomasssss/iwcs2019/tree/master/code). It requires `torch>=1.0.0`, however its a very vanilla feedforward network and should be easily reproducible (haha, famous last words!) in any other framework too.
 
 #### Temporal Entailment Assessment (TEA) ####
 
