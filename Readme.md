@@ -3,14 +3,16 @@
 This repository contains the datasets used in our [IWCS 2019 paper](https://github.com/tttthomasssss/iwcs2019/blob/master/TemporalAndAspectualEntailment.pdf) _Temporal and Aspectual Entailment_. If you use any of the resources in your own work, please use the following bibtex entry:
 
 ```
-@inproceedings{
-	Kober_2019,
+
+@inproceedings{Kober_2019,
 	Address = {Gothenburg, Sweden},
-	Author = {Kober, Thomas and Bijl de Vroe, Sander and Steedman, Mark},
-	Booktitle = {Proceedings of the 13th Conference on Computational Semantics (IWCS 2019)},
+	Author = {Kober, Thomas and de Vroe, Sander Bijl and Steedman, Mark},
+	Booktitle = {Proceedings of the 13th International Conference on Computational Semantics - Long Papers},
+	Month = {23{--}27 } # may,
+	Pages = {103--119},
+	Publisher = {Association for Computational Linguistics},
 	Title = {Temporal and Aspectual Entailment},
-	Year = {2019}
-}
+	Year = {2019}}
 ```
 
 ### Datasets ###
